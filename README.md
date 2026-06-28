@@ -1,6 +1,6 @@
 # Fylings MCP Server
 
-> Search, verify and screen **900,000+ African companies** — plus their **government contracts** — from any AI agent.
+> Search, verify and screen **1,000,000+ African companies** — plus their **government contracts** — from any AI agent.
 
 The **Fylings MCP server** gives Claude, ChatGPT, Cursor and any [Model Context Protocol](https://modelcontextprotocol.io) client live access to African company intelligence: companies across **18 official registries**, **government-procurement** records, and **OFAC/UN sanctions** screening — with the registry **source**, the **date checked**, and a **confidence** signal on every result.
 
@@ -40,7 +40,7 @@ For Claude Desktop or any stdio client, bridge it with `mcp-remote`:
 
 ## What's behind it
 
-- **900,000+ companies** across **18 African registries** (Nigeria, Tanzania, Mauritius, Ghana, Zambia, Madagascar, Kenya, Senegal, Uganda, Angola and more)
+- **1,000,000+ companies** across **18 African registries** (Nigeria, Tanzania, Mauritius, Ghana, Zambia, Madagascar, Kenya, Senegal, Uganda, Angola and more)
 - **500,000+ government-procurement awards** matched to the companies that won them
 - **OFAC / UN sanctions** screening with match confidence
 - **Provenance on every record** — source · last-checked date · confidence
