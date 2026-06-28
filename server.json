@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.HeyZod/fylings",
+  "description": "Search, verify & screen 1M+ African companies + their government contracts across 18 registries.",
+  "repository": {
+    "url": "https://github.com/HeyZod/fylings",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "websiteUrl": "https://www.fylings.com/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.fylings.com/api/mcp"
+    }
+  ]
+}
