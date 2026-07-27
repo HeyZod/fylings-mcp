@@ -3,7 +3,7 @@
   "name": "io.github.HeyZod/fylings",
   "description": "Search, verify & screen 1M+ African companies + their government contracts across 18 registries.",
   "repository": {
-    "url": "https://github.com/HeyZod/fylings",
+    "url": "https://github.com/HeyZod/fylings-mcp",
     "source": "github"
   },
   "version": "1.0.0",
